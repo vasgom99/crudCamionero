@@ -1,6 +1,0 @@
-# Copie este archivo como database.properties y cambie los valores según MySQL Workbench.
-db.host=127.0.0.1
-db.port=3306
-db.name=db_paqueteria
-db.user=root
-db.password=
